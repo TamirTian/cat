@@ -31,4 +31,4 @@ ${content}
 	</tr>
 </table>
 <br/>
-<a href="http://cat-web-address/cat/r/app?query1=;${para.command};;;;;;;;;;23:59">点击此处查看详情</a><br/>
+<a href="https://cat.goodsfans.com/cat/r/app?query1=;${para.command};;;;;;;;;;23:59">点击此处查看详情</a><br/>
